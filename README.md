@@ -35,7 +35,7 @@ I build scalable, modern applications using **Flutter**, **Firebase**, **Supabas
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://hirthick-dev.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" height="48" alt="Portfolio" />
   </a>
 </p>
 
